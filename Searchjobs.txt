@@ -1,0 +1,3 @@
+Open the application 
+Go to find employee
+Search the job title

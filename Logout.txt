@@ -1,0 +1,3 @@
+Go to My Profile
+Click on Log Out
+Confirm Log Out
